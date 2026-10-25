@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /norobots/
+
+User-agent: GPTBot
+Disallow: /norobots/
+Allow: /
+
+User-agent: OAI-SearchBot
+Disallow: /norobots/
+Allow: /
+
+User-agent: ClaudeBot
+Disallow: /norobots/
+Allow: /
+
+User-agent: Claude-SearchBot
+Disallow: /norobots/
+Allow: /
+
+User-agent: Googlebot
+Disallow: /norobots/
+Allow: /
+
+User-agent: Google-Extended
+Disallow: /norobots/
+Allow: /
+
+Sitemap: https://juniorchu.github.io/sitemap.xml
