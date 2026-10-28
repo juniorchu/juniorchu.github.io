@@ -29,4 +29,9 @@ User-agent: Google-Extended
 Disallow: /norobots/
 Allow: /
 
+# 퍼플렉시티 AI 크롤러 명시적 허용
+User-agent: PerplexityBot
+Disallow: /norobots/
+Allow: /
+
 Sitemap: https://juniorchu.github.io/sitemap.xml
