@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- 메인 홈 -->
   <url>
     <loc>https://juniorchu.github.io/</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- 주요 탭 페이지 예시 (Categories, Tags, Archives, About 등) -->
   <url>
-    <loc>https://juniorchu.github.io/categories/</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- 개별 글(포스트) URL 등록 예시 -->
-  <url>
-    <loc>https://juniorchu.github.io/posts/원하는-포스트-슬러그/</loc>
+    <loc>https://juniorchu.github.io/posts/RY4056/</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- 나머지 27개 포스트 <url> 블록도 위와 같은 형태로 아래에 차례대로 추가 -->
 </urlset>
