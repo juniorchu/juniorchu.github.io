@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # 👇 여기에 추가하는 것을 추천합니다
 plugins:
-  - jekyll-sitemap
+ # - jekyll-sitemap
   - jekyll-feed
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
